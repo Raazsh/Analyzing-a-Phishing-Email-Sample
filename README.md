@@ -83,6 +83,31 @@ Screenshots included:
 - Grammar and formatting errors.  
 
 ---
+## 🔐 Securing My Email Account
+
+To protect against phishing and account compromise, I implemented the following security measures in Gmail:
+
+- **Enabled Two-Step Verification (2FA):**  
+  Requires a second factor (SMS, authenticator app, or security key) in addition to the password. This prevents unauthorized access even if the password is stolen.
+
+- **Enabled Passkeys:**  
+  Passkeys provide passwordless login using device-based authentication (biometrics or PIN). They are phishing-resistant because they cannot be reused on fake sites.
+
+- **Reviewed Security Settings:**  
+  - Checked recent login activity for suspicious sign-ins.  
+  - Removed unused recovery email/phone numbers.  
+  - Updated recovery options to ensure account recovery is possible if compromised.
+
+- **Strengthened Password Hygiene:**  
+  - Unique, complex password stored in a password manager.  
+  - Avoided reusing passwords across multiple accounts.
+
+- **Spam & Phishing Reporting:**  
+  - Used Gmail’s “Report phishing” option to help improve detection.  
+  - Ensured suspicious emails are not interacted with (no clicks, no downloads).
+
+---
+
 
 ## 🔎 Conclusion
 This email is a **phishing attempt impersonating Apple iCloud**, designed to trick the recipient into clicking a malicious link and entering payment details.  
