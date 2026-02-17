@@ -1,17 +1,27 @@
 # Analyzing-a-Phishing-Email-Sampl# 📧 Phishing Email Analysis Project
 
 ## Project Overview
-This project demonstrates hands‑on analysis of a phishing email sample.  
+This project demonstrates hands‑on analysis of a phishing email I received a few days ago.  
 The goal is to identify spoofing, header discrepancies, suspicious links, urgent language, and other phishing traits.  
 Screenshots of the email body, header metadata, and relay analysis are included as supporting evidence.
 
 ---
 
-## 1. Sample Phishing Email
+## 1. Phishing Email
 Screenshots included:
-- Email body (impersonating iCloud, urging payment update).
-- Email header metadata.
-- Relay path analysis.
+### 1. Two-Step Verification
+![2step_verification](./2step_verification.png)
+
+### 2. Email Spoofing Example
+![Email Spoofing](./Email_spoofing.png)
+
+### 3. Header Analysis
+![Header Analysis](./Header_analysis.png)
+
+### 4. Received Phishing Email
+![Received Email](./received_email.png)
+
+
 
 ---
 
